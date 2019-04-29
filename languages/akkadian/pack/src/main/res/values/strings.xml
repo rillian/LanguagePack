@@ -1,0 +1,6 @@
+<resources>
+    <string name="akkadian_dictionary">Akkadian</string>
+    <string name="akkadian_dictionary_description">Akkadian (Old Babylonian)</string>
+    <string name="keyboard_name">Akkadian</string>
+    <string name="keyboard_description">Layout for normalized or transliterated Akkadian</string>
+</resources>

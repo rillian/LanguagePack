@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/ic_status_akkadian"
+              layoutResId="@xml/qwerty" id="2f9c7ea2-69f5-11e9-a947-002618061037"
+              defaultDictionaryLocale="akk" description="@string/keyboard_description"
+              index="1" defaultEnabled="true"
+              physicalKeyboardMappingResId="@xml/akkadian_physical" />
+</Keyboards>

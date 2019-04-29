@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        nameResId="@string/akkadian_dictionary"
+        locale="akk"
+        id="9090f5cc-69f4-11e9-9737-002618061037"
+        type="binary_resource"
+        dictionaryResourceId="@array/akkadian_words_dict_array"
+        autoTextResourceId="@xml/akkadian_autotext"
+        description="@string/akkadian_dictionary_description"
+    />
+</Dictionaries>
